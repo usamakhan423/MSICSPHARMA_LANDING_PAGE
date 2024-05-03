@@ -12,7 +12,7 @@ const Mission = () => {
             backgroundRepeat: "no-repeat",
           }}
         >
-          <div className="absolute inset-0 bg-black opacity-75 rounded-xl"></div>
+          <div className="absolute inset-0 bg-black opacity-55 rounded-xl"></div>
           <div className="container mx-auto py-8 px-4 max-w-screen-xl text-center lg:py-16 lg:px-12 bg-cover bg-center relative z-10">
             <span className="text-lg rounded-full text-gray-100 px-4 py-1.5 mr-3 dark:text-gray-300 uppercase">
               Introducing new era of medicine
