@@ -1,5 +1,4 @@
 import Contact from "./components/Contact";
-import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Mission from "./components/Mission";
 import Navbar from "./components/Navbar";
@@ -15,7 +14,7 @@ const App = () => {
       <Product />
       <Sponsor />
       <Contact />
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 };
